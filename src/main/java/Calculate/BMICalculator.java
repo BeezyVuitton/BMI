@@ -2,7 +2,7 @@ package Calculate;
 
 public class BMICalculator implements Calculator {
 
-    public BMICalculator(int height, int weight){
+    public BMICalculator(double height, double weight){
 
     }
 
